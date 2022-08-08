@@ -1,0 +1,16 @@
+#clock {
+    background-color:yellowgreen;
+    width: 350px;
+    height:100px;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+}
+
+h1{
+    color: black;
+}
+h2 {
+    background-color:brown;
+    color:white;
+}
